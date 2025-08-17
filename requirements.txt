@@ -5,5 +5,10 @@ pymupdf
 streamlit-lottie
 PyPDF2
 joblib
+scikit-learn
+numpy
+beautifulsoup4
+lxml
+
 
 
