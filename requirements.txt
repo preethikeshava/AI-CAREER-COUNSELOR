@@ -4,4 +4,6 @@ requests
 pymupdf
 streamlit-lottie
 PyPDF2
+joblib
+
 
