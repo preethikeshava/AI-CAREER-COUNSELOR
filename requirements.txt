@@ -3,3 +3,5 @@ pandas
 requests
 pymupdf
 streamlit-lottie
+PyPDF2
+
